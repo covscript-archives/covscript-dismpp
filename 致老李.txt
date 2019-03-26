@@ -1,0 +1,5 @@
+由于Dism++在我写这个Demo后又进行了更新
+
+于是生成目录的Custom.xml需要被压缩成Custom.zip
+
+存放位置类似 致老李.jpg 那样
